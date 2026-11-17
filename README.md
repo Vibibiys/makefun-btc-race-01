@@ -1,3 +1,7 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Vibibiys/makefun-btc-race-01/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Vibibiys/makefun-btc-race-01/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 # BTC Race Bot — "Ride the cross, trail the exit"
 
 A long-only trading bot for cbBTC/USDC 1-minute bars, written for the
